@@ -1,0 +1,17 @@
+body {
+    background-color: #eee;
+    font-family: 'Lato', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.pag-wrapper{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: minmax(60px, 75px) 200px auto;
+}
+
