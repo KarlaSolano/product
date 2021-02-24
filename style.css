@@ -270,3 +270,33 @@ a{
       margin-bottom: 10px;
     }
 }
+
+footer {
+    margin-top: 30px;
+    background-color: #ddd;
+    padding: 20px;
+    justify-content: flex-end;
+}
+
+footer > ul {
+    display: flex;
+    justify-content: flex-end;
+}
+
+footer > ul > li {
+    padding: 0 10px;
+}
+
+footer > span {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 5px;
+    font-size: 0.9em;
+    color: #444;
+}
+
+@media (max-width: 550px) {
+    footer{
+        font-size: 0.7em;
+    }
+}
