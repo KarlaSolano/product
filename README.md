@@ -8,6 +8,3 @@
 <br>
 <p>Url de la página: https://karlasolano.github.io/products/<p>
 <br>
-<img href="product.jpg" alt="Productos template"/>
-<img href="product2.jpg" alt="Productos template"/>
-<img href="product3.jpg" alt="Productos template"/>
