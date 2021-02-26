@@ -7,4 +7,7 @@
 </ul>
 <br>
 <p>Url de la página: https://karlasolano.github.io/products/<p>
-<br>
+ <img src="product.jpg">
+<img src="product2.jpg">
+<img src="product3.jpg">
+
